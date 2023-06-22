@@ -1,0 +1,33 @@
+.presentsText {
+    font-style: italic;
+    font-family: 'Abhaya Libre', serif;
+}
+
+.image {
+    border-color: "black";
+    border-width: .5rem;
+    border-style: solid;
+    width: 30rem;
+    height: 30rem;
+}
+
+.playlistName {
+    text-align: start;
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    max-width: 75%;
+}
+
+
+.starringText {
+    width: 50%;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.posterContainer {
+    border-color: "black";
+    border-width: .2rem;
+    border-style: solid;
+    width: 30rem
+}

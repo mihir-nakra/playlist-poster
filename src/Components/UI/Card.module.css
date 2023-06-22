@@ -1,0 +1,16 @@
+.imgSize {
+    width: 15rem;
+    height: 15rem;
+}
+
+.customCard {
+    width: 15rem;
+    margin-top: 1rem;
+    margin-right: 1rem
+}
+
+.customCard:hover {
+    box-shadow: 0 0 15px rgb(11, 117, 179);
+}
+
+
